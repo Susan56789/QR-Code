@@ -12,7 +12,7 @@ const CompanyQRCode = () => {
       <div className="qrcode-wrapper">
         <img src={companyLogoUrl} alt="Company Logo" />
         <h2>QUIRKWEB STUDIOS</h2>
-        <QRCode value="https://quirkwebstudios.netlify.app/" size={256} />
+        <QRCode value="https://quirkwebstudios.co.ke/susan-wairimu/" size={256} />
         <div className="scan-text">Scan Me</div>
       </div>
 
